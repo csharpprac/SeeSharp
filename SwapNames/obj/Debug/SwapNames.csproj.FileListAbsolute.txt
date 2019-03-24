@@ -1,0 +1,20 @@
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\bin\Debug\SwapNames.exe.config
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\bin\Debug\SwapNames.exe
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\bin\Debug\SwapNames.pdb
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\obj\Debug\SwapNames.csprojAssemblyReference.cache
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\obj\Debug\SwapNames.Form1.resources
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\obj\Debug\SwapNames.Properties.Resources.resources
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\obj\Debug\SwapNames.csproj.GenerateResource.cache
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\obj\Debug\SwapNames.csproj.CoreCompileInputs.cache
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\obj\Debug\SwapNames.exe
+C:\Users\Elsawhere\source\repos\SwapNames\SwapNames\obj\Debug\SwapNames.pdb
+D:\Virtual studio code\SwapNames\SwapNames\bin\Debug\SwapNames.exe.config
+D:\Virtual studio code\SwapNames\SwapNames\bin\Debug\SwapNames.exe
+D:\Virtual studio code\SwapNames\SwapNames\bin\Debug\SwapNames.pdb
+D:\Virtual studio code\SwapNames\SwapNames\obj\Debug\SwapNames.csprojAssemblyReference.cache
+D:\Virtual studio code\SwapNames\SwapNames\obj\Debug\SwapNames.Form1.resources
+D:\Virtual studio code\SwapNames\SwapNames\obj\Debug\SwapNames.Properties.Resources.resources
+D:\Virtual studio code\SwapNames\SwapNames\obj\Debug\SwapNames.csproj.GenerateResource.cache
+D:\Virtual studio code\SwapNames\SwapNames\obj\Debug\SwapNames.csproj.CoreCompileInputs.cache
+D:\Virtual studio code\SwapNames\SwapNames\obj\Debug\SwapNames.exe
+D:\Virtual studio code\SwapNames\SwapNames\obj\Debug\SwapNames.pdb
