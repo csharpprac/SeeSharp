@@ -9,11 +9,6 @@ namespace SwapNames
         List<string> names = new List<string> { "Laur", "Andrew", "Don", "Doru" };
 
 
-        string[] text = new string[4];
-        
-
-
-
         public Form1()
         {
            
@@ -27,8 +22,6 @@ namespace SwapNames
             textBox4.Text = names[3];
 
             button2.Enabled = false;
-
-            
 
 
         }
